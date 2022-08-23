@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Slab:wght@500&display=swap');
+.home {
+    cursor: pointer;
+    margin-left: 100px;
+    margin-top: 6px;
+    margin-right: 100px;
+    font-family: 'Roboto Slab', serif;
+}
+.title{
+    color: black;
+    font-size: 20px;
+}
+.paragraph{
+    color: rgb(90,90,90);
+    font-size: 13px;
+}
+.firstacapit{
+    margin-right: 840px;
+    margin-top: 20px;
+}
+.home .live{
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 15px;;
+}
+.home .live .live1{
+    color: rgb(191,40,40);
+    font-weight:900;
+}
+.home .live .live2{
+    color: black;
+    font-weight: 900;
+}
+.home .live .live3{
+    color: rgb(191,40,40);
+    font-weight: 200;
+}
+.home .live .live4{
+    color: grey;
+    font-weight: 200;
+}
+.home .live .break{
+    color: white;
+}
+hr.black{
+    border: 0.01px solid black;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: -540px;
+}
+.main .photo1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-left: 350px;
+    margin-top: -370px;
+}
+hr{
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border: 0.01px solid rgb(231, 230, 230);
+}
+.firstacapit .live{
+    text-align: left;
+    font-size: 12px;
+}
+.paragraph2{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 8px;
+}
+.plus{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.main .firstacapit .autor{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(130,130,130);
+    font-size: 10px;
+    margin-top: 8px;
+    margin-left: 692px;
+    margin-right: -1000px;
+}
+hr.vertical{
+    border: 0.01px solid rgb(231, 230, 230);
+    height: 1000px;
+    width: 0px;
+    margin-left: 870px;
+    margin-top: -430px;
+}
+hr.blacknext{
+    border: 0.01px solid black;
+    margin-top: -9px;
+    margin-left: 900px;
+    margin-right: -840px;
+}
+hr.whitenext{
+    border: 0.01px solid rgb(231, 230, 230);
+    margin-top: -930px;
+    margin-left: 900px;
+    margin-right: -840px;
+    margin-bottom: 1000px;
+}
+.main .photo2{
+    display: block;
+    width: 250px;
+    margin-left: 900px;
+    margin-top: -975px;
+    margin-bottom: 1000px;
+}
+.autor2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(130,130,130);
+    font-size: 10px;
+    margin-top: -998px;
+    margin-left: 1000px;
+    margin-right: -1000px;
+    margin-bottom: 1000px;
+}
+.title2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.side{
+    margin-left: 900px;
+    margin-right: -850px;
+    margin-top: -980px;
+    margin-bottom: 1000px;
+}
+.paragraph3{
+    color: rgb(90,90,90);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8px;
+}
