@@ -15,7 +15,7 @@
     font-size: 13px;
 }
 .firstacapit{
-    margin-right: 840px;
+    margin-right: 850px;
     margin-top: 20px;
 }
 .home .live{
@@ -47,7 +47,7 @@ hr.black{
     border: 0.01px solid black;
     margin-top: 15px;
     margin-left: 0px;
-    margin-right: -540px;
+    margin-right: -490px;
 }
 .main .photo1{
     display: block;
@@ -55,7 +55,7 @@ hr.black{
     align-items: center;
     width: 500px;
     margin-left: 350px;
-    margin-top: -370px;
+    margin-top: -300px;
 }
 hr{
     margin-top: 15px;
@@ -102,7 +102,7 @@ hr.blacknext{
 }
 hr.whitenext{
     border: 0.01px solid rgb(231, 230, 230);
-    margin-top: -930px;
+    margin-top: -915px;
     margin-left: 900px;
     margin-right: -840px;
     margin-bottom: 1000px;
